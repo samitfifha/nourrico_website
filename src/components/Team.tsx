@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import youssef from './../assets/images/team/youssef.jpg';
 import sami from './../assets/images/team/sami.jpeg';
-import bechir from './../assets/images/team/bichou.jpeg';
+import achref from './../assets/images/team/achref.jpg';
 
 const team = [
   {
@@ -15,9 +15,9 @@ const team = [
     image: sami
   },
   {
-    name: "Med Bechir BenAbdelghaffar",
-    role: "Lead Designer",
-    image: bechir
+    name: "Achref Trad",
+    role: "Sales director",
+    image: achref
   },
 ];
 
