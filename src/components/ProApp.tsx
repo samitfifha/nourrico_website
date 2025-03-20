@@ -56,8 +56,7 @@ export default function ProApp() {
           </motion.div>
           <h2 className="text-4xl font-bold mb-6 text-white">Professional Solution</h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            Powerful tools for professionals. Advanced features, detailed analytics, 
-            and complete control over your workflow.
+          Maximize your impact with powerful tools. Streamline inventory, boost sales, and reduce waste—all from one intuitive platform.
           </p>
         </motion.div>
 

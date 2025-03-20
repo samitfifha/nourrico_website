@@ -115,11 +115,10 @@ export default function Home() {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-            Transform Your Experience
+          Transform the Way You Save & Savor
           </h1>
           <p className="text-lg text-gray-300 leading-relaxed">
-            Discover a new way to connect, manage, and grow with our innovative platform. 
-            Built for the modern world, designed for you.
+          Discover a smarter way to shop, save, and reduce waste with NOURRICO. Connecting businesses and consumers, our platform makes sustainable choices effortless and rewarding.
           </p>
         </motion.div>
       </div>

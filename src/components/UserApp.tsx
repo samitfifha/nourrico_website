@@ -58,8 +58,7 @@ export default function UserApp() {
           </motion.div>
           <h2 className="text-4xl font-bold mb-6 text-white">User Application</h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            Experience seamless interaction with our user-friendly interface. 
-            Designed for simplicity, built for efficiency.
+          Seamless, smart, and sustainable. Discover great deals on quality food while reducing waste—all in just a few taps.
           </p>
         </motion.div>
 
