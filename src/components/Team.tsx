@@ -1,23 +1,23 @@
 import { motion } from 'framer-motion';
 import youssef from './../assets/images/team/youssef.jpg';
 import sami from './../assets/images/team/sami.jpeg';
-import achref from './../assets/images/team/achref.jpg';
+import salma from './../assets/images/team/salma.jpeg';
 
 const team = [
   {
     name: "Med Youssef Essghaier",
-    role: "CEO",
+    role: "Chief Executive Officier",
     image: youssef
   },
   {
     name: "Sami Tfifha",
-    role: "CTO",
+    role: "Chief Technology Officer",
     image: sami
   },
   {
-    name: "Achref Trad",
-    role: "Sales director",
-    image: achref
+    name: "Salma Chaieb",
+    role: "Marketing Director",
+    image: salma
   },
 ];
 

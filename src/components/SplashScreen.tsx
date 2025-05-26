@@ -58,7 +58,7 @@ const SplashScreen: React.FC = () => {
           }}
           className="mt-4 text-white text-xl font-bold" // Styling for the title
         >
-          Only do business with Nourri
+          Fresh finds. Fair minds. Nourrish
         </motion.div>
       </div>
     </motion.div>

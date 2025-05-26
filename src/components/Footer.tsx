@@ -66,10 +66,11 @@ export default function Footer() {
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-300">
               <li className="hover:text-white transition-colors duration-300">
-                contact@nourrico.com
+                sghaieryoussefmed@gmail.com
               </li>
               <li className="hover:text-white transition-colors duration-300">
-                +216 55 123 456
+                +216 90 280 190 /
+                +216 53 572 801
               </li>
               <li className="hover:text-white transition-colors duration-300">
                 Tunis, Tunisia
